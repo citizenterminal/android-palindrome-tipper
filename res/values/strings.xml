@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palindrone Tipper</string>
+    <string name="amountLabel">Amount</string>
+    <string name="tipLabel">Tip:</string>
+    <string name="settings">Settings</string>
+</resources>
