@@ -7,5 +7,7 @@
      android:title="Tip Percentage"
      android:inputType="number"
      android:imeOptions="actionDone"
+     android:maxLines="1"
+     android:singleLine="true"
      />
 </PreferenceScreen>
