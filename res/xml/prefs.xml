@@ -5,6 +5,7 @@
   <EditTextPreference
      android:key="tipPct"
      android:title="Tip Percentage"
-     android:digits="0123456789"
+     android:inputType="number"
+     android:imeOptions="actionDone"
      />
 </PreferenceScreen>
